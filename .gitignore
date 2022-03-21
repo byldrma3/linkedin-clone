@@ -1,0 +1,6 @@
+*.png
+*.jpg
+*.svg
+*.jpeg
+/node_modules
+/fonts

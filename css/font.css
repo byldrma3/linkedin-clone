@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'gotham-medium';
+    src: url('../fonts/Gotham\ Pro\ Medium.ttf');
+    src:  url('../fonts/Gotham\ Pro\ Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'gotham-regular';
+    src: url('../fonts/Gotham\ Pro\ Regular.ttf');
+    src:  url('../fonts/Gotham\ Pro\ Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'gotham-light';
+    src: url('../fonts/Gotham\ Pro\ Light.ttf');
+    src:  url('../fonts/Gotham\ Pro\ Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
